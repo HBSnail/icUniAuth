@@ -3,6 +3,10 @@
 ###############################################################################
 * text=auto
 
+*.html linguist-language=visual-basic-.net
+*.css linguist-language=visual-basic-.net
+*.js linguist-language=visual-basic-.net
+
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
