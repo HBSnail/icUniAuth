@@ -1,0 +1,20 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="MailAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">noreply@icseclab.org</Value>
+    </Setting>
+    <Setting Name="UserInfoConnectStr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">server=localhost;port=3306;database=icuniauth_userinfo;uid=root;pwd=root;</Value>
+    </Setting>
+    <Setting Name="AppInfoConnectStr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">server=localhost;port=3306;database=icuniauth_appinfo;uid=root;pwd=root;
+</Value>
+    </Setting>
+    <Setting Name="AuthInfoConnectStr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">server=localhost;port=3306;database=icuniauth_authinfo;uid=root;pwd=root;
+</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
